@@ -2,8 +2,8 @@
 title:               CDL Handbook
 tagline:             'SUNY Geneseo Center for Digital Learning'
 description:         'Handbook for CDL student affiliates'
-url:                 https://cdl-geneseo.github.io/handbook
-baseurl:             '/handbook'
+url:                 https://cdl-geneseo.github.io/handbook/
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
