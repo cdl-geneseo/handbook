@@ -1,8 +1,8 @@
 # Setup
-title:               Center for Digital Learning
-tagline:             'at SUNY Geneseo'
-description:         'Blog of the <a href="https://www.geneseo.edu/cdl" target="_blank">SUNY Geneseo Center for Digital Learning</a>'
-url:                 https://cdl-geneseo.github.io
+title:               CDL Handbook
+tagline:             'SUNY Geneseo Center for Digital Learning'
+description:         'Handbook for CDL student affiliates'
+url:                 https://cdl-geneseo.github.io/handbook
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Center for Digital Learning
-  url:               https://www.geneseo.edu
+  url:               https://www.geneseo.edu/cdl
   email:             cdl@geneseo.edu
 
 # Gems
