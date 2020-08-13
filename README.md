@@ -2,7 +2,7 @@
 
 Repository for the CDL Handbook for Student Affiliates at [https://cdl-geneseo.github.io/handbook](https://cdl-geneseo.github.io/handbook)
 
-Create new handbook pages in the `drafts` folder. When they're ready, move them to the top level of the `docs` folder for publication. See the [sample draft page](drafts/sampledraft.md) in `docs`.
+Create new handbook pages in the `drafts` folder. When they're ready, move them to the top level of the `docs` folder for publication. See the [sample draft page](drafts/sampledraft.md) in `drafts`.
 
 New pages should be written in markdown and have YAML frontmatter at the top like so:
 
