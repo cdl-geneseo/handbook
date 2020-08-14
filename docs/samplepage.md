@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sample Page
+title: Sample page
 author: Paul Schacht
 ---
 
